@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning **Computer Engineering, VLSI design, quantum computing, and ML for music**
 - 💞️ I’m looking to collaborate on **“Any Project Related to Computer Enginnering”**
 - 💬 Ask me about **Python, Java, C++, digital circuits, or system design**
-- - 💞️ I’m looking to collaborate on **software + hardware integration projects**
+- 💞️ I’m looking to collaborate on **software + hardware integration projects**
 - 📫 How to reach me **abariagabr@ucsd.edu or aronukbaysefu@gmail.com**
 
 <!---
